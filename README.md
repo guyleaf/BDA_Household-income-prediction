@@ -1,12 +1,13 @@
-BigData - **Household income prediction**
+Big Data Analysis - **Household income prediction**
 ===========================
 
 
 ## Final Presentation
-https://github.com/guyleaf/BDA_project/blob/main/BDA_presentation.pptx
+- powerpoint version: https://guyleaf.pse.is/3crryq
+- pdf version: https://guyleaf.pse.is/3cccv7
 
 ## Data Resource
-https://www.kaggle.com/grosvenpaul/family-income-and-expenditure/
+- Kaggle: https://www.kaggle.com/grosvenpaul/family-income-and-expenditure/
 
 ## Team members and task responsibility
 
