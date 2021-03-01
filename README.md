@@ -2,14 +2,14 @@ Big Data Analysis - **Household income prediction**
 ===========================
 
 
-## Final Presentation
+### Final Presentation
 - powerpoint version: https://guyleaf.pse.is/3crryq
 - pdf version: https://guyleaf.pse.is/3cccv7
 
-## Data Resource
+### Data Resource
 - Kaggle: https://www.kaggle.com/grosvenpaul/family-income-and-expenditure/
 
-## Team members and task responsibility
+### Team members and task responsibility
 
 | Member | Task                                            |
 | ------ | ----------------------------------------------- |
@@ -19,12 +19,12 @@ Big Data Analysis - **Household income prediction**
 | 應耀德 | Preprocessing, data visualization, SOM, XGBoost |
 
 
-## Installation
+### Installation
 
 pip install scikit-learn numpy pandas matplotlib minisom boruta
 
 
-## Execution instructions
+### Execution instructions
 
 There are 9 files in total.
 
