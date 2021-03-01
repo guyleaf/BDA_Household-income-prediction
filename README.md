@@ -19,26 +19,14 @@ Big Data Analysis - **Household income prediction**
 | 應耀德 | Preprocessing, data visualization, SOM, XGBoost |
 
 
-
 ## Installation
 
-pip install scikit-learn
-
-pip install numpy
-
-pip install pandas
-
-pip install matplotlib
-
-pip install minisom
-
-pip install boruta
-
+pip install scikit-learn numpy pandas matplotlib minisom boruta
 
 
 ## Execution instructions
 
-There are 9 files.
+There are 9 files in total.
 
 ```
 cd models
