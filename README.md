@@ -37,19 +37,19 @@ pip install boruta
 
 ## Execution instructions
 
-There are 8 files.
+There are 9 files.
 
 ```
-cd /root/to/path
+cd models
 jupyter
 # open ipynb
 ```
-
+* baseline.ipynb
 * DecisionTree.ipynb
 * RandomForest.ipynb
 * SOM.ipynb
 * KNN + MDC.ipynb
-* svm_yang (directory)
+* SVM (directory)
   * categorical_only.ipynb
   * mixed.ipynb
   * numeric_only.ipynb
