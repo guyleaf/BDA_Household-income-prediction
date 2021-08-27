@@ -69,3 +69,29 @@ jupyter
   * mixed.ipynb
   * numeric_only.ipynb
   * selected_features_only.ipynb
+
+### Reference
+1. Kursa, Miron & Jankowski, Aleksander & Rudnicki, Witold. (2010). Boruta - A System for Feature Selection. Fundam. Inform.. 101. 271-285. 10.3233/FI-2010-288. 
+2. J. D. Hunter, "Matplotlib: A 2D Graphics Environment", Computing in Science & Engineering, vol. 9, no. 3, pp. 90-95, 2007.
+3. ```
+   @software{reback2020pandas,
+       author       = {The pandas development team},
+       title        = {pandas-dev/pandas: Pandas},
+       month        = feb,
+       year         = 2020,
+       publisher    = {Zenodo},
+       version      = {latest},
+       doi          = {10.5281/zenodo.3509134},
+       url          = {https://doi.org/10.5281/zenodo.3509134}
+   }
+   ```
+4. ```
+   @misc{vettigliminisom,
+       title={MiniSom: minimalistic and NumPy-based implementation of the Self Organizing Map},
+       author={Giuseppe Vettigli},
+       year={2018},
+       url={https://github.com/JustGlowing/minisom/}
+   }
+   ```
+5. Harris, C.R., Millman, K.J., van der Walt, S.J. et al. Array programming with NumPy. Nature 585, 357–362 (2020). DOI: [0.1038/s41586-020-2649-2](https://doi.org/10.1038/s41586-020-2649-2). ([Publisher link](https://www.nature.com/articles/s41586-020-2649-2)).
+6. Scikit-learn: Machine Learning in Python, Pedregosa et al., JMLR 12, pp. 2825-2830, 2011.
