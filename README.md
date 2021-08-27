@@ -25,8 +25,7 @@ pip install scikit-learn numpy pandas matplotlib minisom boruta
 
 
 ### Execution instructions
-
-There are 9 files in total.
+Total: 7 models (9 files)
 
 ```
 cd models
