@@ -1,4 +1,4 @@
-Big Data Analysis - **Household income prediction**
+Big Data Analysis - **Household Income Prediction**
 ===========================
 
 ### Final Presentation
