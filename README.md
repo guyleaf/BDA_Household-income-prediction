@@ -73,7 +73,7 @@ jupyter
 ### Reference
 1. Kursa, Miron & Jankowski, Aleksander & Rudnicki, Witold. (2010). Boruta - A System for Feature Selection. Fundam. Inform.. 101. 271-285. 10.3233/FI-2010-288. 
 2. J. D. Hunter, "Matplotlib: A 2D Graphics Environment", Computing in Science & Engineering, vol. 9, no. 3, pp. 90-95, 2007.
-3. ```
+3. ```bibtex
    @software{reback2020pandas,
        author       = {The pandas development team},
        title        = {pandas-dev/pandas: Pandas},
@@ -85,7 +85,7 @@ jupyter
        url          = {https://doi.org/10.5281/zenodo.3509134}
    }
    ```
-4. ```
+4. ```bibtex
    @misc{vettigliminisom,
        title={MiniSom: minimalistic and NumPy-based implementation of the Self Organizing Map},
        author={Giuseppe Vettigli},
